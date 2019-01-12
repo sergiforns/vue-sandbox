@@ -1,5 +1,4 @@
-# my-first-vue-project
-
+# Vue.js SandBox with TypeScrpit
 ## Project setup
 ```
 npm install
